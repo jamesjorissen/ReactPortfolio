@@ -15,7 +15,7 @@ function App() {
       <Router>
         <NavBar />
         <Route component={Home} path='/' exact />
-        <Route component={aboutjames} path='/aboutjames/aboutjames' />
+        <Route component={aboutjames} path='/aboutjames' />
         <Route component={Projects} path='/projects' />
 
 

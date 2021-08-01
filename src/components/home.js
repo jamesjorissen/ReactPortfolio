@@ -1,13 +1,14 @@
 import React from "react"
-// import image from ""
+import image from "../Eden.JPG"
 
 export default function Home() {
     return (
         <main>
-            {/* <img src={image} alt="image from CuteWallpaper.org" className="absolute object-cover w-full h-full"/>
+            <img src={image} alt="Eden" className="absolute object-cover w-full h-full" />
             <section className="relative flex justify-center min-h-screen pt-12 lg:pt-64 px-8">
-                <h1 className="text-6xl text-red-300 font-bold cursive leading-none lg:leading-snug home-name"> Hi. I'm Anusha. </h1>
-            </section> */}
+                <h1 className="picture">Hi, I am James. The girl is my daughter - glad she looks like her mom! Ready to build applications! </h1>
+
+            </section>
         </main>
     )
 }
