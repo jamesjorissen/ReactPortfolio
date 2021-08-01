@@ -10,8 +10,9 @@ function aboutjames() {
                 <br></br>
                 <h1 className="picture2">I have a wife named Andrea, a 2 year old daughter named Eden and 2 crazy dogs named Putter and Lily.</h1>
                 <br></br>
-                <h1 className="picture3">If you have any questions about my work, or if you want to collaborate, please email me at jamesjorissen@gmail.com. Looking forward to expanding my knowledge, meeting new people, sharing great ideas and creating websites that deliver immense value!</h1>
+                <h1 className="picture3">If you have any questions about my work, or if you want to collaborate, please reach out to me at 612.751.7029 or jamesjorissen@gmail.com. Looking forward to expanding my knowledge, meeting new people, sharing great ideas and creating websites that deliver immense value!</h1>
             </section>
+
         </main>
     )
 }
