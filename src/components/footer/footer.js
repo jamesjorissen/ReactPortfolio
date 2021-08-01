@@ -6,6 +6,7 @@ const footerStyle = {
     color: "black",
     margin: "20px",
     textAlign: "center",
+    position: "fixed",
 };
 
 const ptag = {
